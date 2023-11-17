@@ -18,10 +18,8 @@ void main(){
         }
     }
    }
-   int re_matrix[3][size+1];
-   int k=0;
-  /* int l=1; 
-   int m=2;*/
+   int re_matrix[size+1][3];
+   
    int d=1;
    re_matrix[0][0]=4;
    re_matrix[0][1]=5;
