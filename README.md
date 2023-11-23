@@ -8,12 +8,13 @@ The purpose of this repository is to provide S3 KTU students with a comprehensiv
 
 # Repository Structure
 
-          📂DataStructure--->Cycle 1--->Array&Stack
-           >infixtoPostfix
-           >PostfixEvaluvation
-           >Sparsematrix
-           >StackImplementation
-	   >polynomialaddition 
+        📂DataStructure--->Cycle 1--->Array&Stack
+        >infixtoPostfix
+        >PostfixEvaluvation
+        >Sparsematrix
+        >StackImplementation
+	   >PolynomialAddition
+	      
 
            📂DataStructure--->Cycle 1--->Queue
            >circular_Queue
