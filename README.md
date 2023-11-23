@@ -13,6 +13,7 @@ The purpose of this repository is to provide S3 KTU students with a comprehensiv
            >PostfixEvaluvation
            >Sparsematrix
            >StackImplementation
+	   >polynomialaddition 
 
            📂DataStructure--->Cycle 1--->Queue
            >circular_Queue
