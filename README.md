@@ -7,27 +7,36 @@ This repository contains C code implementations for various data structures cove
 The purpose of this repository is to provide S3 KTU students with a comprehensive resource for understanding and implementing data structures using C programming language. The code is well-commented and easy to follow, making it an excellent learning aid for students of all level
 
 # Repository Structure
+ 📂DataStructure--->Cycle 1--->Array&Stac
+ >infixtoPostfix
 
-        📂DataStructure--->Cycle 1--->Array&Stack
-        >infixtoPostfix
-        >PostfixEvaluvation
-        >Sparsematrix
-        >StackImplementation
-	   >PolynomialAddition
+ >PostfixEvaluvation
+
+ >Sparsematrix
+
+ >StackImplementation
+
+ >PolynomialAddition
 	      
+📂DataStructure--->Cycle 1--->Queue
+ >circular_Queue
 
-           📂DataStructure--->Cycle 1--->Queue
-           >circular_Queue
-           >implementation_Queue
+ >implementation_Queue
 
-            📂DataStructure--->Cycle 1--->Searching
-            >linear_search
-            >binary_search
+ 📂DataStructure--->Cycle 1--->Searching
+ >linear_search
 
-            📂 DataStructure--->Cycle 2--->Linkedlist
-            >circular_linkedlist
-            >single_linkedlist
-            >double_linkedlist
+>binary_search
+
+📂 DataStructure--->Cycle 2--->Linkedlist
+>Stack_Linkedlist
+
+>circular_linkedlist
+
+>single_linkedlist
+
+>double_linkedlist
+	    
 
            
              :)
